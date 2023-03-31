@@ -1,0 +1,15 @@
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\bin\Debug\net7.0\GradeCalculator.exe
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\bin\Debug\net7.0\GradeCalculator.deps.json
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\bin\Debug\net7.0\GradeCalculator.runtimeconfig.json
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\bin\Debug\net7.0\GradeCalculator.dll
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\bin\Debug\net7.0\GradeCalculator.pdb
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\GradeCalculator.csproj.AssemblyReference.cache
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\GradeCalculator.dll
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\refint\GradeCalculator.dll
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\GradeCalculator.pdb
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\Paulo Gonçalves\Desktop\GradeCalculator\obj\Debug\net7.0\ref\GradeCalculator.dll
